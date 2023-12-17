@@ -2,6 +2,7 @@
 
 - zh_CN [简体中文](readme/README_zh_CN.md)
 - zh_TW [繁体中文](readme/README_zh_TW.md)
+<<<<<<< HEAD
 - en [English](readme/README_en.md)
 
 # Description
@@ -9,24 +10,47 @@ Easy Python console tool wrappers
 
 ## Install
 
+=======
+<<<<<<<< HEAD:README.md
+- en [English](readme/README_en.md)
+========
+- en [English](README_en.md)
+>>>>>>>> 89c58cd (修改 readme):readme/README_en.md
+
+# 说明
+简单Python控制台输入输出工具封装.
+
+## 安装
+>>>>>>> 89c58cd (修改 readme)
 ```
 
 git clone https://github.com/yuyangit/xy_console.git
 cd xy_console
 python setup.py install
 
+<<<<<<< HEAD
 Or
+=======
+或者
+>>>>>>> 89c58cd (修改 readme)
 
 pip install git+https://github.com/yuyangit/xy_console.git --user
 
 ```
 
 
+<<<<<<< HEAD
 ## Start
+=======
+## 开始
+
+
+>>>>>>> 89c58cd (修改 readme)
 ```
 
 from xy_console.utils import *
 
+<<<<<<< HEAD
 # Normal Print
 printt("hello world")
 
@@ -43,6 +67,24 @@ print_w("hello world")
 print_r("hello world")
 
 # Error Print
+=======
+# 普通打印
+printt("hello world")
+
+# 打印成功
+print_s("hello world")
+
+# 打印执行
+print_exe("hello world")
+
+# 打印警告(warning)
+print_w("hello world")
+
+# 打印运行(running)
+print_r("hello world")
+
+# 打印运行(error)
+>>>>>>> 89c58cd (修改 readme)
 print_e("hello world")
 
 
