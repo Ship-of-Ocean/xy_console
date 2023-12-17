@@ -14,6 +14,7 @@ Easy Python console tool wrappers
 
 ## Install
 
+<<<<<<< HEAD
 =======
 <<<<<<<< HEAD:README.md
 - en [English](readme/README_en.md)
@@ -26,6 +27,8 @@ Easy Python console tool wrappers
 
 ## 安装
 >>>>>>> 89c58cd (修改 readme)
+=======
+>>>>>>> c955c1e (1)
 ```
 
 <<<<<<< HEAD
@@ -50,6 +53,7 @@ pip install xy_console
 
 <<<<<<< HEAD
 ## Start
+<<<<<<< HEAD
 =======
 ## 开始
 
@@ -58,10 +62,13 @@ pip install xy_console
 >>>>>>> 89c58cd (修改 readme)
 =======
 >>>>>>> a9febb5 (1)
+=======
+>>>>>>> c955c1e (1)
 ```
 
 from xy_console.utils import *
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Normal Print
 printt("hello world")
@@ -81,22 +88,29 @@ print_r("hello world")
 # Error Print
 =======
 # 普通打印
+=======
+# Normal Print
+>>>>>>> c955c1e (1)
 printt("hello world")
 
-# 打印成功
+# Success Print
 print_s("hello world")
 
-# 打印执行
+# Execute Print
 print_exe("hello world")
 
-# 打印警告(warning)
+# Warning Print
 print_w("hello world")
 
-# 打印运行(running)
+# Running Print
 print_r("hello world")
 
+<<<<<<< HEAD
 # 打印运行(error)
 >>>>>>> 89c58cd (修改 readme)
+=======
+# Error Print
+>>>>>>> c955c1e (1)
 print_e("hello world")
 
 

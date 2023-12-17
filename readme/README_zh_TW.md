@@ -36,14 +36,19 @@ pip install xy_console
 ```
 
 
+<<<<<<< HEAD
 ## 开始
 >>>>>>> 89c58cd (修改 readme)
+=======
+## 開始
+>>>>>>> c955c1e (1)
 
 
 ```
 
 from xy_console.utils import *
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # 普通列印
 printt("hello world")
@@ -63,22 +68,29 @@ print_r("hello world")
 # 运行(error)列印
 =======
 # 普通打印
+=======
+# 普通列印
+>>>>>>> c955c1e (1)
 printt("hello world")
 
-# 打印成功
+# 成功列印
 print_s("hello world")
 
-# 打印执行
+# 执行列印
 print_exe("hello world")
 
-# 打印警告(warning)
+# 警告(warning)列印
 print_w("hello world")
 
-# 打印运行(running)
+# 运行(running)列印
 print_r("hello world")
 
+<<<<<<< HEAD
 # 打印运行(error)
 >>>>>>> 89c58cd (修改 readme)
+=======
+# 运行(error)列印
+>>>>>>> c955c1e (1)
 print_e("hello world")
 
 
