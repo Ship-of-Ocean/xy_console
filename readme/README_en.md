@@ -44,6 +44,7 @@ pip install git+https://github.com/yuyangit/xy_console.git --user
 pip install xy_console
 >>>>>>> 5e3804c (fix 修改安装方式)
 
+
 ```
 
 
@@ -52,8 +53,11 @@ pip install xy_console
 =======
 ## 开始
 
+<<<<<<< HEAD
 
 >>>>>>> 89c58cd (修改 readme)
+=======
+>>>>>>> a9febb5 (1)
 ```
 
 from xy_console.utils import *
