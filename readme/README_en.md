@@ -8,6 +8,7 @@
 Easy Python console tool wrappers
 
 ## Install
+
 ```
 
 git clone https://github.com/yuyangit/xy_console.git
@@ -22,28 +23,26 @@ pip install git+https://github.com/yuyangit/xy_console.git --user
 
 
 ## Start
-
-
 ```
 
 from xy_console.utils import *
 
-# 普通打印
+# Normal Print
 printt("hello world")
 
-# 打印成功
+# Success Print
 print_s("hello world")
 
-# 打印执行
+# Execute Print
 print_exe("hello world")
 
-# 打印警告(warning)
+# Warning Print
 print_w("hello world")
 
-# 打印运行(running)
+# Running Print
 print_r("hello world")
 
-# 打印运行(error)
+# Error Print
 print_e("hello world")
 
 

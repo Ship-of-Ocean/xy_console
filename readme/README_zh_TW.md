@@ -4,10 +4,10 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
-# 说明
-简单Python控制台输入输出工具封装.
+# 說明
+簡單Python控制台輸入輸出工具封裝
 
-## 安装
+## 安裝
 ```
 
 git clone https://github.com/yuyangit/xy_console.git
@@ -21,29 +21,29 @@ pip install git+https://github.com/yuyangit/xy_console.git --user
 ```
 
 
-## 开始
+## 開始
 
 
 ```
 
 from xy_console.utils import *
 
-# 普通打印
+# 普通列印
 printt("hello world")
 
-# 打印成功
+# 成功列印
 print_s("hello world")
 
-# 打印执行
+# 执行列印
 print_exe("hello world")
 
-# 打印警告(warning)
+# 警告(warning)列印
 print_w("hello world")
 
-# 打印运行(running)
+# 运行(running)列印
 print_r("hello world")
 
-# 打印运行(error)
+# 运行(error)列印
 print_e("hello world")
 
 
