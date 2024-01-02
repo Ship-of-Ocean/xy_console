@@ -14,6 +14,10 @@ git clone https://github.com/yuyangit/xy_console.git
 cd xy_console
 python setup.py install
 
+或者
+
+pip install git+https://github.com/yuyangit/xy_console.git --user
+
 ```
 
 
