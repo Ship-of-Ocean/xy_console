@@ -2,12 +2,12 @@
 
 - zh_CN [简体中文](readme/README_zh_CN.md)
 - zh_TW [繁体中文](readme/README_zh_TW.md)
-- en [English](README_en.md)
+- en [English](readme/README_en.md)
 
-# 说明
-简单Python控制台输入输出工具封装.
+# Description
+Easy Python console tool wrappers
 
-## 安装
+## Install
 ```
 
 git clone https://github.com/yuyangit/xy_console.git
@@ -17,7 +17,7 @@ python setup.py install
 ```
 
 
-## 开始
+## Start
 
 
 ```
