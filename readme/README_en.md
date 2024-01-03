@@ -5,6 +5,10 @@
 <<<<<<< HEAD
 - en [English](readme/README_en.md)
 
+If you think these tools are pretty good, Can you please have a cup of coffee?
+![WeChat](readme/WeChat.jpg)
+![Alipay](readme/Alipay.jpg)
+
 # Description
 Easy Python console tool wrappers
 
