@@ -4,6 +4,10 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
+如果小夥伴們覺得這些工具還不錯的話，能否請咱喝一杯咖啡呢
+![微信](readme/WeChat.jpg)
+![支付寶](readme/Alipay.jpg)
+
 # 说明
 简单Python控制台输入输出工具封装.
 
