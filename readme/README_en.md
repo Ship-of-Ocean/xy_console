@@ -24,6 +24,7 @@ Easy Python console tool wrappers
 >>>>>>> 89c58cd (修改 readme)
 ```
 
+<<<<<<< HEAD
 git clone https://github.com/yuyangit/xy_console.git
 cd xy_console
 python setup.py install
@@ -35,6 +36,9 @@ Or
 >>>>>>> 89c58cd (修改 readme)
 
 pip install git+https://github.com/yuyangit/xy_console.git --user
+=======
+pip install xy_console
+>>>>>>> 5e3804c (fix 修改安装方式)
 
 ```
 

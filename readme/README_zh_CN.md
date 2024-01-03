@@ -14,6 +14,7 @@
 ## 安装
 ```
 
+<<<<<<< HEAD
 git clone https://github.com/yuyangit/xy_console.git
 cd xy_console
 python setup.py install
@@ -22,6 +23,9 @@ python setup.py install
 或者
 
 pip install git+https://github.com/yuyangit/xy_console.git --user
+=======
+pip install xy_console
+>>>>>>> 5e3804c (fix 修改安装方式)
 
 =======
 >>>>>>> 89c58cd (修改 readme)
