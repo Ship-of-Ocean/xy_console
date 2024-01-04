@@ -2,11 +2,7 @@
 
 - zh_CN [简体中文](readme/README_zh_CN.md)
 - zh_TW [繁体中文](readme/README_zh_TW.md)
-<<<<<<< HEAD
 - en [English](readme/README_en.md)
-=======
-- en [English](README_en.md)
->>>>>>> 89c58cd (修改 readme)
 
 如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢
 ![微信](readme/WeChat.png)
@@ -18,21 +14,8 @@
 ## 安装
 ```
 
-<<<<<<< HEAD
-git clone https://github.com/yuyangit/xy_console.git
-cd xy_console
-python setup.py install
-
-<<<<<<< HEAD
-或者
-
-pip install git+https://github.com/yuyangit/xy_console.git --user
-=======
 pip install xy_console
->>>>>>> 5e3804c (fix 修改安装方式)
 
-=======
->>>>>>> 89c58cd (修改 readme)
 ```
 
 
